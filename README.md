@@ -1,0 +1,1 @@
+# slicing_template_stisla_laravel9
